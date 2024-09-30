@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <head>
- <title>Replit</title>
-    </head>
+<head>
+<title>Replit</title>
+</head>
 <body>
-    <p>Hello World!!!!!!!!!!.</p>
- </body>
+<p>Hello World!!!!!!!!!.</p>
+</body>
 </html>
