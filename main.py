@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Replit</title>
-</head>
-<body>
-<p>Hello World!!!!!!!!!.</p>
-</body>
-</html>
+# This code adds two numbers
+def add_numbers(a, b):
+    return a + b
+
+num1 = 5
+num2 = 10
+
+result = add_numbers(num1, num2)
+print(f"The sum of {num1} and {num2} is {result}")
